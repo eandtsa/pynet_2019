@@ -1,0 +1,22 @@
+• Palo Alto Networks was unable to build data center capacity quickly
+enough to meet the growing needs of application teams.
+• As it transitioned to the AWS public cloud, the company needed a
+consistent enterprise-grade load balancing solution that would deliver
+across multicloud environments.
+• The company needed to support its firewall in Amazon AWS in front of
+load balancers and applications for security.
+• The company wanted to reduce costs by automating common tasks.
+• The Avi Vantage Platform is a fully elastic, multicloud application delivery
+platform with centrally managed, distributed load balancers.
+• Avi offers unprecedented application insights to monitor applications
+and troubleshoot performance issues.
+• Avi Vantage not only reduces TCO by eliminating hardware and
+overprovisioning requirements, but also autoscales on-demand in
+response to real-time traffic.
+ Avi Vantage streamlined infrastructure provisioning and workload
+migration, allowing Palo Alto Networks to focus on applications rather
+than on infrastructure.
+• The company reduced average troubleshooting time by several hours,
+thanks to Avi’s application insights and performance monitoring.
+• The IT team shortened average application deployment time from days
+to hours with enterprise-grade tools.
